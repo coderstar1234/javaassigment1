@@ -11,10 +11,13 @@
 
 - Open a command prompt or terminal window and navigate to the directory where the program is saved.
 <p align="center">Compile the program by running the following command:</p>
-Copy code
-javac VotingEligibility.java
+<h3 align="center" >bash📖</h3>
+<h4 align="center" >Copy code📝</h4>
+
+- javac VotingEligibility.java
 Run the program by entering the following command:
-Copy code
+<h3 align="center" >bash📖</h3>
+<h4 align="center" >Copy code📝</h4>
 java VotingEligibility
 When prompted, enter your age and press enter.
 The program will then tell you whether you are eligible to vote in a national election or not.
@@ -22,12 +25,14 @@ The program will then tell you whether you are eligible to vote in a national el
 <h1 align="center">Example</h1>
 
 sql
-Copy code
+<h4 align="center" >Copy code📝</h4>
+
 $ java VotingEligibility
 Enter your age: 25
 You are eligible to vote in a national election.
 sql
-Copy code
+<h4 align="center" >Copy code📝</h4>
+
 $ java VotingEligibility
 Enter your age: 16
 You are not yet eligible to vote in a national election.
