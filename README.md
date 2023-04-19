@@ -18,9 +18,10 @@
 Run the program by entering the following command:
 <h3 align="center" >bash📖</h3>
 <h4 align="center" >Copy code📝</h4>
-java VotingEligibility
-When prompted, enter your age and press enter.
-The program will then tell you whether you are eligible to vote in a national election or not.
+
+- java VotingEligibility
+- When prompted, enter your age and press enter.
+- The program will then tell you whether you are eligible to vote in a national election or not.
 <hr>
 <h1 align="center">Example</h1>
 
