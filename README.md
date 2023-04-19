@@ -28,15 +28,16 @@
 sql
 <h4 align="center" >Copy code📝</h4>
 
-$ java VotingEligibility
-Enter your age: 25
-You are eligible to vote in a national election.
-sql
+- $ java VotingEligibility
+- Enter your age: 25
+- You are eligible to vote in a national election.
+- sql
 <h4 align="center" >Copy code📝</h4>
 
 $ java VotingEligibility
-Enter your age: 16
-You are not yet eligible to vote in a national election.
+
+- Enter your age: 16
+- You are not yet eligible to vote in a national election.
 <hr>
 <h1 align="center">Contributing</h1>
 
