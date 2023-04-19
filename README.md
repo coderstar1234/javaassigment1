@@ -6,9 +6,10 @@
 
 - To use this program, you'll need to have the Java Runtime Environment (JRE) installed on your computer.
 <hr>
-Clone the repository or download the ZIP file and extract the contents.
-Open a command prompt or terminal window and navigate to the directory where the program is saved.
-Compile the program by running the following command:
+<h1 align="center">Clone the repository</h1> 
+<p align="center">download the ZIP file and extract the contents.</p>
+- Open a command prompt or terminal window and navigate to the directory where the program is saved.
+<p align="center">Compile the program by running the following command:</p>
 Copy code
 javac VotingEligibility.java
 Run the program by entering the following command:
