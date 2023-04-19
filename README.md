@@ -15,7 +15,7 @@
 <h4 align="center" >Copy code📝</h4>
 
 - javac VotingEligibility.java
-Run the program by entering the following command:
+- Run the program by entering the following command:
 <h3 align="center" >bash📖</h3>
 <h4 align="center" >Copy code📝</h4>
 
