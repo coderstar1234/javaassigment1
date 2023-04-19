@@ -8,6 +8,7 @@
 <hr>
 <h1 align="center">Clone the repository</h1> 
 <p align="center">download the ZIP file and extract the contents.</p>
+
 - Open a command prompt or terminal window and navigate to the directory where the program is saved.
 <p align="center">Compile the program by running the following command:</p>
 Copy code
