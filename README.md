@@ -25,16 +25,16 @@
 <hr>
 <h1 align="center">Example</h1>
 
-sql
+<p align="center">sql:</p>
 <h4 align="center" >Copy code📝</h4>
 
 - $ java VotingEligibility
 - Enter your age: 25
 - You are eligible to vote in a national election.
-- sql
+<p align="center">sql:</p>
 <h4 align="center" >Copy code📝</h4>
 
-$ java VotingEligibility
+<p align="center">$ java VotingEligibility:</p>
 
 - Enter your age: 16
 - You are not yet eligible to vote in a national election.
