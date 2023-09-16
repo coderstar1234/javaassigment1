@@ -1,4 +1,4 @@
-<h1 align="center">Voting Eligibility:-</h1>
+<h1 align="center">Voting Eligibility🗳️:-</h1>
 
 - This is a simple Java program that determines if a user is eligible to vote in a national election based on their age.
 <hr>
