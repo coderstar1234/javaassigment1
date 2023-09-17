@@ -43,7 +43,7 @@
 
 - If you would like to contribute to this program, feel free to submit a pull request or open an issue.
 <hr>
-<h1 align="center">License</h1>
+<h1 align="center">License:-</h1>
 
 - This program is licensed under the MIT License.
 - See the LICENSE file for details.
