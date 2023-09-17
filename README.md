@@ -2,7 +2,7 @@
 
 - This is a simple Java program that determines if a user is eligible to vote in a national election based on their age.
 <hr>
-<h1 align="center">Usage:🌎-</h1>
+<h1 align="center">Usage:-🌎-</h1>
 
 - To use this program, you'll need to have the Java Runtime Environment (JRE) installed on your computer.
 <hr>
