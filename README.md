@@ -26,7 +26,7 @@
 <h1 align="center">Example:-</h1>
 
 <p align="center">sql:</p>
-<h4 align="center" >Copy code📝</h4>
+<h4 align="center" >Copy code:-📝</h4>
 
 - $ java VotingEligibility
 - Enter your age: 25
