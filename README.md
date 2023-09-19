@@ -12,7 +12,7 @@
 - Open a command prompt or terminal window and navigate to the directory where the program is saved.
 <p align="center">Compile the program by running the following command:</p>
 <h3 align="center" >bash:-📖</h3>
-<h4 align="center" >Copy code📝</h4>
+<h4 align="center" >Copy code:-📝</h4>
 
 - javac VotingEligibility.java
 - Run the program by entering the following command:
