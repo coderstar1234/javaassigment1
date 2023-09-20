@@ -31,7 +31,7 @@
 - $ java VotingEligibility
 - Enter your age: 25
 - You are eligible to vote in a national election.
-<p align="center">sql:</p>
+<p align="center">sql:-</p>
 <h4 align="center" >Copy code:-📝</h4>
 
 <p align="center">$ java VotingEligibility:</p>
