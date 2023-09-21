@@ -39,7 +39,7 @@
 - Enter your age: 16
 - You are not yet eligible to vote in a national election.
 <hr>
-<h1 align="center">Contributing:-</h1>
+<h1 align="center">Contributing:🧑‍🤝‍🧑-</h1>
 
 - If you would like to contribute to this program, feel free to submit a pull request or open an issue.
 <hr>
