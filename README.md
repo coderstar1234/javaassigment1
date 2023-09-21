@@ -6,7 +6,7 @@
 
 - To use this program, you'll need to have the Java Runtime Environment (JRE) installed on your computer.
 <hr>
-<h1 align="center">Clone the repository:-</h1> 
+<h1 align="center">Clone the repository:👍-</h1> 
 <p align="center">download the ZIP file and extract the contents.</p>
 
 - Open a command prompt or terminal window and navigate to the directory where the program is saved.
